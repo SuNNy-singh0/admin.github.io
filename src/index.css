@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Alkatra&family=Josefin+Sans&family=Kanit:wght@300&family=Merriweather+Sans:ital@1&family=Mukta&family=REM:wght@300&display=swap" );
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: 'Josefin Sans', sans-serif;
+  background-color: black;
+  color: white;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
