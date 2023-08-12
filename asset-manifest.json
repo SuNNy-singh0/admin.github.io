@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tonystark7862/admin.github.io/static/css/main.b99816b9.css",
+    "main.js": "/Tonystark7862/admin.github.io/static/js/main.674ad22c.js",
+    "static/media/download-removebg-preview (4).png": "/Tonystark7862/admin.github.io/static/media/download-removebg-preview (4).5148544a189770097596.png",
+    "static/media/chris.jpg": "/Tonystark7862/admin.github.io/static/media/chris.f08b807a1dc4add343fc.jpg",
+    "index.html": "/Tonystark7862/admin.github.io/index.html",
+    "main.b99816b9.css.map": "/Tonystark7862/admin.github.io/static/css/main.b99816b9.css.map",
+    "main.674ad22c.js.map": "/Tonystark7862/admin.github.io/static/js/main.674ad22c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b99816b9.css",
+    "static/js/main.674ad22c.js"
+  ]
+}
